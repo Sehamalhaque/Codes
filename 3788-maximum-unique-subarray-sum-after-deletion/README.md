@@ -46,6 +46,14 @@
 <p>Delete the elements <code>nums[2] == -1</code> and <code>nums[3] == -2</code>, and select the subarray <code>[2, 1]</code> from <code>[1, 2, 1, 0, -1]</code> to obtain the maximum sum.</p>
 </div>
 
+
+
+*how to solve*
+<p> Sum all unique positive numbers in the array.
+
+If no positive numbers exist, pick the maximum number in the array (could be zero or negative).
+
+This sum is the maximum achievable sum of a unique subarray after any allowed deletions.</p>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
